@@ -50,4 +50,4 @@ I’ll be uploading rebuilt versions of each project listed above, including:
 - **Completed**: March 30, 2024  
 - **Time Commitment**: 8–10 hours per week  
 - **Grade Achieved**: 98%  
-- **Certificate**: [https://coursera.org/share/ada45f898d62e90695fc552732ff454f](#)
+- **Certificate**: [View Certificate →](https://coursera.org/share/ada45f898d62e90695fc552732ff454f)
